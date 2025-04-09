@@ -42,12 +42,5 @@ git clone https://github.com/yourusername/lesson-plan-generator-frontend.git
 cd lesson-plan-generator-frontend
 npm install
 npm run dev
-```
-![Screenshot from 2025-04-08 16-14-57](https://github.com/user-attachments/assets/4dbdbeda-4692-4ecc-980c-02a13532fb34)
-
-![Screenshot from 2025-04-08 16-16-00](https://github.com/user-attachments/assets/f96ccc11-d857-4a7f-97be-6deed6ecc658)
-![Screenshot from 2025-04-08 16-16-23](https://github.com/user-attachments/assets/b5854b99-46aa-4e48-a1c5-d256e8a95a92)
-
-
 
 
