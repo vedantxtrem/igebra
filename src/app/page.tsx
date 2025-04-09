@@ -10,7 +10,7 @@ const WelcomePage = () => {
         <div className="mb-6">
           <div className="text-5xl font-extrabold text-purple-600 mb-2">🎓</div>
           <h1 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
-            Welcome to Your AI Lesson Plan Generator
+            Welcome in  AI Lesson Plan Generator
           </h1>
           <p className="text-gray-600 text-base md:text-lg">
             Create personalized, engaging, and curriculum-aligned lesson plans in seconds—powered by AI and built for educators.

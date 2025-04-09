@@ -139,7 +139,7 @@ const LessonSetupPage = () => {
               exit={{ opacity: 0, x: 20 }}
               className="space-y-5"
             >
-              <label className="block text-gray-700 font-medium">Grade Level</label>
+              <label className="block text-gray-700 font-medium">Standard</label>
               <input
                 type="text"
                 placeholder="e.g., 5th Grade"
